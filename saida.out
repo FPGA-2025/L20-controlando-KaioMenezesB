@@ -1,0 +1,6 @@
+VCD info: dumpfile saida.vcd opened for output.
+OK: Teste 1: FIFO contém 6 palavras após a escrita
+OK: Teste 2: FIFO contém 2 palavras após a leitura
+OK: Teste 3: FIFO está em modo de escrita
+OK: Teste 4: FIFO está mantendo 1 palavra devido a leitura e escrita ao mesmo tempo
+tb.v:76: $finish called at 40000 (1ps)
